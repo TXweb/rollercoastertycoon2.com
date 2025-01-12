@@ -134,7 +134,7 @@
         <blockquote> 
           <p><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"> <img src="images/dot.gif" width="18" height="15"> Includes 25 Six Flags<sup>®</sup> roller coasters from 5 different Six Flags<sup>®</sup> locations, including Six Flags<sup>®</sup> Magic Mountain and Six Flags<sup>®</sup> Great Adventure!<br> 
             <img src="images/dot.gif" width="18" height="15"> Create your own incredible roller coasters using the all-new Roller Coaster Designer! <br> 
-            <img src="images/dot.gif" width="18" height="15"> Trade creations and challenge other RollerCoaster Tycoons™ worldwide on <a href=http://www.rollercoastertycoon.com>rollercoastertycoon.com</a>!<br> 
+            <img src="images/dot.gif" width="18" height="15"> Trade creations and challenge other RollerCoaster Tycoons™ worldwide on <a href=http://www.rctv2.rctspace.com>rctv2.rctspace.com</a>!<br>
             <img src="images/dot.gif" width="18" height="15"> Push the limits with new roller coaster types, including Giga Coaster, Spinning Wild Mouse, Inverted Impulse Coaster and more!<br> 
             <img src="images/dot.gif" width="18" height="15"> Customize your park with new and unique themes, including Giant Garden, Wild West, Pirates and more!.<br> 
             <img src="images/dot.gif" width="18" height="15"> All new rides, scenery and attractions based on the Earth’s seven continents:<br> 
