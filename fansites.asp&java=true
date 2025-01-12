@@ -305,7 +305,7 @@ Even though the individual components of RCT3 can be quite simple, the sheer com
               
   <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Thanks for all 
     of your entries. The coasters now go to our judges and they will determine 
-    the &quot;Best of the Best&quot;. <a href="http://www.rctv2.rctspace.com/contest" target="_blank">Click
+    the &quot;Best of the Best&quot;. <a href="https://rctv2.rctspace.com/contest" target="_blank">Click
     here</a>! to check out the names of our winners.</font></p>
             </blockquote>
             <p><img src="images/dot.gif" width="18" height="15"> <b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The

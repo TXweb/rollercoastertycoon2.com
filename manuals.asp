@@ -109,28 +109,28 @@ Please
               <table width="100%" border="0" cellpadding="2">
   <tr>
     <td>
-      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a href="http://rctv2.rctspace.com/downloads/RCTycoon%20Manual%2008311.pdf" target="_blank"><b>RollerCoaster
-        Tycoon<font size="1">&reg;</font></b></a><br><a href="http://rctv2.rctspace.com/downloads/RCTycoon%20Manual%2008311.pdf" target="_blank">
+      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a href="https://rctv2.rctspace.com/downloads/RCTycoon%20Manual%2008311.pdf" target="_blank"><b>RollerCoaster
+        Tycoon<font size="1">&reg;</font></b></a><br><a href="https://rctv2.rctspace.com/downloads/RCTycoon%20Manual%2008311.pdf" target="_blank">
         <img src="images/rctbox.jpg" width="109" height="129" border="0"> </a><br>
-        (<a href="http://rctv2.rctspace.com/downloads/RCTycoon%20Manual%2008311.pdf" target="_blank">click
+        (<a href="https://rctv2.rctspace.com/downloads/RCTycoon%20Manual%2008311.pdf" target="_blank">click
         to view</a>)</font></div>
     </td>
     <td>
-      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><a href="http://rctv2.rctspace.com/downloads/RCT_LoopyLandscapes.pdf" target="_blank">RollerCoaster
+      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><a href="https://rctv2.rctspace.com/downloads/RCT_LoopyLandscapes.pdf" target="_blank">RollerCoaster
         Tycoon<font size="1">&reg;</font>:<br>
         Loopy Landscapes</a></b><br>
-        <a href="http://rctv2.rctspace.com/downloads/RCT_LoopyLandscapes.pdf" target="_blank"><img src="images/rtc_box_loopy.jpg" width="109" height="129" border="0"></a><br>
-        (<a href="http://rctv2.rctspace.com/downloads/RCT_LoopyLandscapes.pdf" target="_blank">click to
+        <a href="https://rctv2.rctspace.com/downloads/RCT_LoopyLandscapes.pdf" target="_blank"><img src="images/rtc_box_loopy.jpg" width="109" height="129" border="0"></a><br>
+        (<a href="https://rctv2.rctspace.com/downloads/RCT_LoopyLandscapes.pdf" target="_blank">click to
         view</a>) </font></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><a href="http://rctv2.rctspace.com/downloads/RCT_CorkscrewFollies.pdf" target="_blank">RollerCoaster
+      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><a href="https://rctv2.rctspace.com/downloads/RCT_CorkscrewFollies.pdf" target="_blank">RollerCoaster
         Tycoon<font size="1">&reg;</font>:<br>
         Corkscrew Follies</a></b><br>
-        <a href="http://rctv2.rctspace.com/downloads/RCT_CorkscrewFollies.pdf" target="_blank"><img src="images/rtc_box_cork.jpg" width="109" height="129" border="0"></a><br>
-        (<a href="http://rctv2.rctspace.com/downloads/RCT_CorkscrewFollies.pdf" target="_blank">click to
+        <a href="https://rctv2.rctspace.com/downloads/RCT_CorkscrewFollies.pdf" target="_blank"><img src="images/rtc_box_cork.jpg" width="109" height="129" border="0"></a><br>
+        (<a href="https://rctv2.rctspace.com/downloads/RCT_CorkscrewFollies.pdf" target="_blank">click to
         view</a>) </font></div>
     </td>
     <td>

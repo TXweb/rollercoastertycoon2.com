@@ -145,7 +145,7 @@
 		  <a href="http://ggtycoon.tycoonplanet.com" target="_blank">ggtycoon.tycoonplanet.com</a><br>
 		  <a href="http://home.san.rr.com/rctdisneyland/" target="_blank">home.san.rr.com/rctdisneyland</a><br>
 		  <a href="http://www.loopyrct.cjb.net" target="_blank">loopyrct.cjb.net</a><br>
-		  <a href="http://lunatim.rctspace.com/lunaland/loopy.shtml" target="_blank">lunatim.rctspace.com/lunaland/loopy.shtml</a><br>
+		  <a href="https://lunatim.rctspace.com/lunaland/loopy.shtml" target="_blank">lunatim.com/lunaland/loopy.shtml</a><br>
 		  <a href="http://www.marc.ukhq.co.uk/rct/" target="_blank">marc.ukhq.co.uk/rct</a><br>
 		  <a href="http://mickanmansrct.wz.cz/" target="_blank">mickanmansrct.wz.cz</a><br>
 		  <a href="http://mommadragon.freeservers.com" target="_blank">mommadragon.freeservers.com</a><br>
