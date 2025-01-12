@@ -1,5 +1,6 @@
 <html>
 <head>
+<meta charset="utf-8">
 
 <!-- ----------------------------------------------------------------
   Website by U.S. Infogrames web team:
@@ -42,7 +43,7 @@
   <tr>
     <td width="243" valign="top"><img src="images/m_02.jpg" width="243" height="33"><br>
       <a href="javascript:;" onClick="window.open('http://us.infogrames.com/games/subscribe.php?action=subscribe&title=RCT2&sku=PCXX&genre=STRY&bgcolor=333399','_blank','width=500,height=500,menubar=no,resizable=no,scrollbars=yes,toolbar=no,top=100,left=100');"><img src="images/m_04_reg.jpg" width="199" height="34" border="0"></a><img src="images/m_05.jpg" width="44" height="34"><br>
-      <a href="http://www.us.infogrames.com/store/?game=RCT2&referer=wpage&platform=PCXX" target="_blank"><img src="images/m_06_buy.jpg" width="124" height="33" border="0"></a><img src="images/m_07.jpg" width="119" height="33"><br>
+      <a href="https://www.gog.com/en/game/rollercoaster_tycoon_2" target="_blank"><img src="images/m_06_buy.jpg" width="124" height="33" border="0"></a><img src="images/m_07.jpg" width="119" height="33"><br>
       <img src="images/m_08.jpg" width="243" height="19"></td>
     <td width="95" valign="top"><img src="images/m_header_animation.gif" width="190" height="119"></td>
     <td valign="top">&nbsp;</td>
@@ -80,7 +81,7 @@
 	<img src="images/m_20_dot.gif" width="23" height="18"><a href="games.asp#ww">RCT2 Wacky</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="games.asp#ww">Worlds</a> <br>
 	<img src="images/m_20_dot.gif" width="23" height="18"><a href="info.asp">RCT2</a> <br>
-	<img src="images/m_20_dot.gif" width="23" height="18"><a href="games.asp#xbox">RCT Xbox™</a><br>
+	<img src="images/m_20_dot.gif" width="23" height="18"><a href="games.asp#xbox">RCT Xboxâ„¢</a><br>
     <img src="images/m_20_dot.gif" width="23" height="18"><a href="games.asp#dlx">RCT 
     Deluxe</a><br>
     

@@ -1,6 +1,7 @@
 
 <html>
 <head>
+<meta charset="utf-8">
 
 <!-- ----------------------------------------------------------------
   Website by U.S. Infogrames web team:
@@ -43,7 +44,7 @@
   <tr>
     <td width="243" valign="top"><img src="images/m_02.jpg" width="243" height="33"><br>
       <a href="javascript:;" onClick="window.open('http://us.infogrames.com/games/subscribe.php?action=subscribe&title=RCT2&sku=PCXX&genre=STRY&bgcolor=333399','_blank','width=500,height=500,menubar=no,resizable=no,scrollbars=yes,toolbar=no,top=100,left=100');"><img src="images/m_04_reg.jpg" width="199" height="34" border="0"></a><img src="images/m_05.jpg" width="44" height="34"><br>
-      <a href="http://www.us.infogrames.com/store/?game=RCT2&referer=wpage&platform=PCXX" target="_blank"><img src="images/m_06_buy.jpg" width="124" height="33" border="0"></a><img src="images/m_07.jpg" width="119" height="33"><br>
+      <a href="https://www.gog.com/en/game/rollercoaster_tycoon_2" target="_blank"><img src="images/m_06_buy.jpg" width="124" height="33" border="0"></a><img src="images/m_07.jpg" width="119" height="33"><br>
       <img src="images/m_08.jpg" width="243" height="19"></td>
     <td width="95" valign="top"><img src="images/m_header_animation.gif" width="190" height="119"></td>
     <td valign="top">&nbsp;</td>
@@ -81,7 +82,7 @@
 	<img src="images/m_20_dot.gif" width="23" height="18"><a href="games.asp#ww">RCT2 Wacky</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="games.asp#ww">Worlds</a> <br>
 	<img src="images/m_20_dot.gif" width="23" height="18"><a href="info.asp">RCT2</a> <br>
-	<img src="images/m_20_dot.gif" width="23" height="18"><a href="games.asp#xbox">RCT Xboxô</a><br>
+	<img src="images/m_20_dot.gif" width="23" height="18"><a href="games.asp#xbox">RCT Xbox‚Ñ¢</a><br>
     <img src="images/m_20_dot.gif" width="23" height="18"><a href="games.asp#dlx">RCT 
     Deluxe</a><br>
     
@@ -134,7 +135,7 @@
           </tr>
         </table>
         <img src="images/s_news.gif" width="195" height="36"><br><br>
-<p><img src="images/dot.gif" width="18" height="15"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Rollercoaster Tycoon 3<sup>Æ</sup> is voted one of the six games to watch this year by CNN!</b><br><br>
+<p><img src="images/dot.gif" width="18" height="15"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Rollercoaster Tycoon 3<sup>¬Æ</sup> is voted one of the six games to watch this year by CNN!</b><br><br>
             </p><blockquote>
               
           <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
@@ -143,7 +144,7 @@
 			</blockquote>		
 
 
-<p><img src="images/dot.gif" width="18" height="15"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Rollercoaster Tycoon 3<sup>Æ</sup> is being shown at this yearís Electronic Entertainment Expo (E3) in the Microsoft Games for Windows Booth and the ATI booth.</b> <br><br>
+<p><img src="images/dot.gif" width="18" height="15"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Rollercoaster Tycoon 3<sup>¬Æ</sup> is being shown at this year‚Äôs Electronic Entertainment Expo (E3) in the Microsoft Games for Windows Booth and the ATI booth.</b> <br><br>
             </p><blockquote>
               
           <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
@@ -151,7 +152,7 @@
 		</font></p>        
 			</blockquote>		
 		
-		<p><img src="images/dot.gif" width="18" height="15"> <b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">New Question & Answer session with Jonny Watts, Producer of RollerCoaster Tycoon 3<sup>Æ</sup> at Frontier Developments.</b><br><br>
+		<p><img src="images/dot.gif" width="18" height="15"> <b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">New Question & Answer session with Jonny Watts, Producer of RollerCoaster Tycoon 3<sup>¬Æ</sup> at Frontier Developments.</b><br><br>
             <blockquote>
               
           <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
@@ -172,24 +173,24 @@ Even though the individual components of RCT3 can be quite simple, the sheer com
 <b><font color="#FFFF00">Q: Will RCT3 have a sandbox mode?  How is this implemented?</font> </b><br>
 <b>A:</b> Yes (cue the sound of cheers from around the world..)!  Very simple - you can put anything you like into your park, with the one caveat that a small amount of content is unlock able throughout the game.  So straight off the bat you'll be able to use pretty much everything in your park, but to get a truly complete-ist buzz you have some serious Tycoon-ing to do!<br><br>
 <b><font color="#FFFF00">Q: How many rides are there going to be in RCT3?</font></b><br>
-<b>A:</b> Broadly speaking for this first release we set out to deliver around 75% of the 'content' (rides and scenery) that were in RCT2 ñ however, our enthusiasm has got the better of us and we'll have probably done a bit more than that by the time we're finished.<br><br>
-<b><font color="#FFFF00">Q: How is ìthemingî and ride customization handled in RCT3?</font></b> <br>
+<b>A:</b> Broadly speaking for this first release we set out to deliver around 75% of the 'content' (rides and scenery) that were in RCT2 ‚Äì however, our enthusiasm has got the better of us and we'll have probably done a bit more than that by the time we're finished.<br><br>
+<b><font color="#FFFF00">Q: How is ‚Äútheming‚Äù and ride customization handled in RCT3?</font></b> <br>
 <b>A:</b> The way we've been building the rides is to produce a "vanilla" version of a ride and then 'theme' it, so as a general rule there are multiple versions of each ride available, themed and not themed.  There is not a completely rigorous approach whereby each ride has an alternate version in every theme, but we've done the best we can given the time and people available.  Also we've tried to ensure that the themes we do are relatively rich compared to some in previous incarnations of the game, so as well as rides & attractions there are always also building sets, staff uniforms, foliage, benches, lamps and so on.  We have also tried to incorporate this into the gameplay in subtle ways, so that now, for example, a Peeps impression of a park is partly based on the coherency of the themeing.<br><br>
 		</font></p>        
 			</blockquote>
 				    
-		<p><img src="images/dot.gif" width="18" height="15"> <b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">RollerCoaster Tycoon 3<sup>Æ</sup> Video Trailer #1:</b><br><br>
+		<p><img src="images/dot.gif" width="18" height="15"> <b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">RollerCoaster Tycoon 3<sup>¬Æ</sup> Video Trailer #1:</b><br><br>
             <blockquote>
               
           <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
 		Check out the amazing new visuals of RollerCoaster Tycoon 3.  The first official video trailer for RollerCoaster Tycoon 3 is now available for viewing and download - <a href="javascript:;" onclick='window.open("http://us.atari.com/freebies/movies/movie.php?tcode=RCT3&type=consolepc","viddy","width=338,height=330,menubar=no,resizable=no,scrollbars=yes,toolbar=no,top=100,left=100");'>click here</a> to view now (launch video pop up) .  This video is taken 100% from the in-game grahics engine and is not altered in any way.  Visit the official game page at <a href="http://www.us.atari.com/games/rollercoaster_tycoon_3_pc_strategy/" target="_blank">Atari.com</a> to get more information on the game.<br><br>
 		</font></p>        
 			</blockquote>
-		<p><img src="images/dot.gif" width="18" height="15"> <b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">RollerCoaster Tycoon 3<sup>Æ</sup> is coming!</b><br><br>
+		<p><img src="images/dot.gif" width="18" height="15"> <b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">RollerCoaster Tycoon 3<sup>¬Æ</sup> is coming!</b><br><br>
             <blockquote>
               
           <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
-		Get your barf bag ready! The thrilling new sequel to the exciting <em>RollerCoaster Tycoon</em> franchise will make its way to store shelves this Holiday season.  <strong>RollerCoaster Tycoon 3</strong> will take the series to new heights with brand new features including 3-D graphics, giving players complete control of views around the park, and a front seat to the action with a new <em>Coaster Camô</em> feature that allows players to ride the roller coasters.  <a href="http://us.atari.com/press/?action=readmore&id=1466" target="_blank">Read more</a>.<br><br>
+		Get your barf bag ready! The thrilling new sequel to the exciting <em>RollerCoaster Tycoon</em> franchise will make its way to store shelves this Holiday season.  <strong>RollerCoaster Tycoon 3</strong> will take the series to new heights with brand new features including 3-D graphics, giving players complete control of views around the park, and a front seat to the action with a new <em>Coaster Cam‚Ñ¢</em> feature that allows players to ride the roller coasters.  <a href="http://us.atari.com/press/?action=readmore&id=1466" target="_blank">Read more</a>.<br><br>
 		<a href="javascript:screen('1b.jpg','all', 'RCT3','000000','FFCC00');">Check out the screen shots here</a>.		
 		</font></p>        
 			</blockquote>
@@ -204,9 +205,9 @@ Even though the individual components of RCT3 can be quite simple, the sheer com
              
                 <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
                   Experience a Jurassic Safari, confront an evil Skeleton Army 
-                  and relive the Golden Age of Rock & Roll! RollerCoaster Tycoon<sup>Æ</sup> 
+                  and relive the Golden Age of Rock & Roll! RollerCoaster Tycoon<sup>¬Æ</sup> 
                   2 is taking gamers back through history and forward to the future 
-                  in its final expansion pack, RollerCoaster Tycoon<sup>Æ</sup> 2: Time Twister.<br>
+                  in its final expansion pack, RollerCoaster Tycoon<sup>¬Æ</sup> 2: Time Twister.<br>
                 Click <a href="http://us.atari.com/games/rollercoaster_tycoon_2_tt_pc_strategy" target="_blank">here</a> 
                 to learn more! </font></p>
 
@@ -292,7 +293,7 @@ Even though the individual components of RCT3 can be quite simple, the sheer com
             <blockquote>
               <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The wait is over, RCT2 is
                 now on shelves everywhere! Head on down to your favorite store and get it today or stay
-                in your comfy chair and order RCT2 online by <a href="http://www.us.infogrames.com/store/?game=RCT2&referer=ppage&platform=PCXX" target="_blank">clicking
+                in your comfy chair and order RCT2 online by <a href="https://www.gog.com/en/game/rollercoaster_tycoon_2" target="_blank">clicking
                 here</a>. Either way, you will soon be enjoying countless hours of fun as you set out
                 to build the ultimate amusement parks and rides! If you want to learn more about what's
                 new in RCT2 check <a href="/new.asp">this link out</a>. </font></p>
