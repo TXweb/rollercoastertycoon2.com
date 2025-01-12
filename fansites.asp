@@ -265,9 +265,9 @@
       <br>
       <table border="0" cellspacing="0" cellpadding="5">
 	          <tr>
-	            <td><a href="http://esrb.org" target="_blank"><img src="http://www.us.infogrames.com/media/games/rating_e.gif" width="38" height="53" border="0"></a></td>
+	            <td><a href="http://esrb.org" target="_blank"><img src="/images/rating_e.gif" width="38" height="53" border="0"></a></td>
 	            <td align="center"><a href="http://us.atari.com" target="_blank"><img src="/images/logo_atari.gif" width="105" height="40" border="0"></a></td>
-	            <td align="right"><img src="http://www.us.infogrames.com/media/games/pc_cdrom_logo.gif" width="38" height="41"></td>
+	            <td align="right"><img src="/images/pc_cdrom_logo.gif" width="38" height="41"></td>
         </tr>
        <tr><td colspan=3 align=center>
        <font size="1" face="Arial Narrow">&copy; 2004 Atari, Inc.
@@ -278,7 +278,7 @@
       </td></tr></table>
       <br>
       <br>
-      <a href=http://us.infogrames.com/privacy_policy.asp target=_blank><img src=http://us.infogrames.com/privacy.jpg border=0></a>
+      <a href=http://us.infogrames.com/privacy_policy.asp target=_blank><img src=/images/privacy.jpg border=0></a>
       </font> </td>
     <td width="136" valign="bottom" background="images/m_22_bg.gif"><br>
       <img src="images/m_bottom_coast.gif" width="135" height="176"><br>
