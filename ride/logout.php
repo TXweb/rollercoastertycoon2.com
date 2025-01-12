@@ -1,0 +1,2 @@
+	<html>
+	<body bgcolor="#333399" text="#FFFFFF" link="#FFFF00" vlink="#FFFF00" alink="#FFFF00"><img src="images/sub_log_out.gif" width="134" height="25"><br><br><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">You have been logged out. Come back soon!

@@ -1,0 +1,6 @@
+<br>
+<b>Warning</b>:  Lost connection to MySQL server during query in <b>/var/www/html/rollercoastertycoon2/ride/db_config.php</b> on line <b>19</b><br>
+<br>
+<b>Warning</b>:  MySQL Connection Failed: Lost connection to MySQL server during query
+ in <b>/var/www/html/rollercoastertycoon2/ride/db_config.php</b> on line <b>19</b><br>
+<font color=red>Lost connection to MySQL server during query</font>
